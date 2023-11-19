@@ -62,6 +62,8 @@ Sprites sometimes render on the wrong layer for a frame or two.
 
 - Gameplay
 
+You need to skip the BIOS animation to get the game to boot.
+
 Can be played to 100% completion but with a few minor issues.
 
 You might not be able to see Shrek/Fiona in certain parts of Castle Sneak.
