@@ -14,6 +14,10 @@ Some games will lock up if you press buttons too fast.
 
 - Audio
 
+It will lag a bit if you don't increase the CPU clock speed to 27.54 MHz. Any higher and the sound will skip.
+
+Some sounds don't play properly.
+
 Some sounds just don't play at all. Happens in almost every game.
 
 8-Bit PCM decoding is still a bit rough/has a bit more noise than intended.
@@ -30,6 +34,15 @@ Transparency doesn't work yet. I'll only list this as an issue if it gets in the
 
 Sometimes, your controls will stop working entirely, requiring you to restart the emulator.
 
+# Alphabet Park Adventure (USA) (Original Version)
+- Status
+
+Playable to 100% completion. Not perfect.
+
+- Audio
+
+The intro cutscene plays garbage data if reloaded after already playing it once
+
 # Shrek: Dragon's Tale (USA)
 - Status
 
@@ -38,6 +51,8 @@ Playable to 100% completion. Not perfect.
 - Audio
 
 Has some issues with certain channels not playing for a few seconds after a song starts.
+
+Certain songs (like Forest Search) don't play their audio samples right.
 
 - Visuals
 
