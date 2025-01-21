@@ -1,3 +1,5 @@
+### THIS PAGE IS NO LONGER BEING UPDATED! Do not expect anything new here.
+
 # V.Frown-Compatibility
 A (work in progress) compatibility list for the V.Frown (V.Smile) emulator.
 
