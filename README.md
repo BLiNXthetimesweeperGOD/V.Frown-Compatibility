@@ -1,4 +1,4 @@
-### THIS PAGE IS NO LONGER BEING UPDATED! Do not expect anything new here.
+### THIS PAGE IS NO LONGER BEING UPDATED! Do not expect anything new here. If VFrown gets any future updates, this page will likely become inaccurate.
 
 # V.Frown-Compatibility
 A (work in progress) compatibility list for the V.Frown (V.Smile) emulator.
